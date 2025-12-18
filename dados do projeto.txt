@@ -1,0 +1,43 @@
+Dados do Projeto:
+
+Precisa ter 3 Seções.
+Topo;
+Seção Banner;
+Seção Informações.
+__________
+No Topo, teremos os seguintes elementos:
+
+Uma imagem (logo);
+Um botão.
+__________
+Por fim, a segunda seção terá como parte da estrutura os seguintes elementos:
+
+Um container com:
+Um título;
+Três parágrafos.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Paleta de cores
+No desenvolvimento do projeto deve ser utilizada a seguinte paleta de cores:
+
+#FFFFFF
+#252323
+#000000
+#B2987D
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+1 - Página com o tema 'light'
+#B2987D
+#000000
+#FFFFFF
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+4 a página com a paleta de cores referente ao tema 'dark'.
+
+#B2987D
+#FFFFFF
+#252323
